@@ -1,0 +1,9 @@
+.env
+node_modules/
+sessions/*
+!sessions/example-session.md
+*.log
+.DS_Store
+.claude/
+.vscode/
+.idea/

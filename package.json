@@ -1,0 +1,19 @@
+{
+  "name": "sales-coach",
+  "version": "0.1.0",
+  "description": "Real-time local sales-call coach overlay (Electron + Deepgram + Claude Haiku).",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}
