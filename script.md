@@ -1,74 +1,70 @@
-# FLUXOMATE — Free Internal Tool Discovery Call Script
+# Example Sales Script — Agency / Done-For-You
 
-We offer: **a custom internal tool built for an agency, free, in 14 days**.
-We do it because it's how we earn trust — most agencies we build for end up
-working with us on bigger paid projects (full retention systems, custom portals).
-The free tool is fully theirs at the end, documented, no obligation.
+> **This is an example.** Replace it with your own playbook.
+> The coach reads this file at the start of every session and uses it as the
+> source of truth for what to nudge you on. Keep the `##` section headers —
+> they populate the section dropdown in the overlay.
 
-The job on this call is two things:
-1. Identify what's actually slowing the agency down.
-2. Decide whether there's a tool we can build that meaningfully fixes that.
+We offer: **a done-for-you growth service for e-commerce brands**.
+We do it because it works — most of our clients hit their growth target within
+90 days. This call is for figuring out (a) what's actually slowing them down
+and (b) whether what we do is a fit.
 
-The bridge (reflecting their constraint back) is the single most important moment
-on the call. Never pitch before they've explicitly confirmed the constraint.
+The single most important moment is the **bridge**: reflecting the prospect's
+constraint back to them in their own words before you pitch anything.
 
 ---
 
 ## Opener (30 seconds)
 
-"Cool, so this call's pretty simple. The whole point of this offer is that we
-build you a free internal tool for your agency in 14 days.
+"Hey, thanks for jumping on. Quick framing on this call so we're aligned:
 
-The purpose of this call is to figure out two things:
-- What's actually slowing your agency down right now
-- Whether there's a tool we can build that meaningfully fixes that
+- I'll ask you a bunch of questions to understand the business
+- I'll show you a couple of examples of how we've solved similar problems
+- If it makes sense, we'll talk about what next steps look like
 
-So — I'm sure you know how this goes. I'll ask you a bunch of questions just to
-build some context to see if this would work, and then I'll show you some real
-examples of what the future looks like. If that all makes sense, we'll talk
-about what next steps look like.
-
-You cool with that?"
+Cool with that?"
 
 ---
 
-## Question 1 — The call itself
+## Question 1 — Why this call
 
-"What made you actually book this call? What caught your eye and made you want
-to turn up?"
+"What made you take this call specifically? What were you hoping to get out
+of it?"
 
 ---
 
-## Question 2 — The agency
+## Question 2 — The business
 
-"Walk me through the agency — what you do, who you do it for, and where you're
-at right now."
+"Walk me through the business — what you sell, who buys it, where you're at
+right now."
 
 **Sub-questions** (weave in, don't fire all at once):
-- What's the team look like — who does what?
-- How many active clients?
-- What's your ticket price and engagement length?
-- What results are you getting people?
-- What does service delivery actually look like week to week?
+- What does the team look like — who does what?
+- How many active customers?
+- What's your AOV / LTV roughly?
+- What channels are driving most of the growth right now?
+- What does a typical week look like operationally?
 
 ---
 
 ## Question 3 — The numbers
 
-"Let's get into the numbers a bit. What's churn looking like? What's MRR doing?
-And what are you tracking right now to keep an eye on client health?"
+"Let's get into the numbers. What's revenue doing month-over-month? What's
+your blended ROAS? And what are you tracking weekly to know if you're
+on track?"
 
 ---
 
 ## Question 4 — THE CONSTRAINT QUESTION (most important)
 
-"If you could only fix one thing in the next 90 days — the thing that, if it got
+"If you could fix one thing in the next 90 days — the thing that, if it got
 solved, would unlock the most growth or take the most pressure off the team —
 what would it be?"
 
 Follow up:
-- "What would it do for you if you fixed that?"
-- "And what have you already tried to fix it? Why didn't it stick?"
+- "What would that unlock for you specifically?"
+- "What have you already tried? Why didn't it stick?"
 
 ---
 
@@ -81,66 +77,63 @@ minutes?"
 
 ## Question 5 — Context check
 
-"Out of curiosity, have you seen any of our YouTube stuff or the case studies?
-Just want to know how much I need to walk through vs. skip."
+"Have you seen any of our case studies or YouTube content? Just want to know
+how much I need to walk through versus skip."
 
 ---
 
 ## The Bridge — reflect their constraint back (DO NOT SKIP)
 
-This is where most reps blow it. Once you know their constraint, play it back
-in their own words **before** you pitch anything.
+This is where most reps lose the deal. Before you pitch ANYTHING, play their
+constraint back in their own words.
 
-"Okay, so just to play it back — the biggest thing you're dealing with right
-now is [their exact constraint]. You've tried [X and Y], and it hasn't fully
-solved it because [their reason]. Did I get that right?"
+"So just to play it back — the biggest thing you're dealing with is [their
+exact constraint]. You've tried [X and Y] and it hasn't fully solved it
+because [their reason]. Did I get that right?"
 
-**Wait for them to confirm. Make them say yes.** The biggest failure mode is
-pitching the offer before the prospect has explicitly aligned on the problem.
+**Wait for them to say yes.** Do not move on without an explicit confirmation.
 
 ---
 
 ## The Pitch — constraint-led, not offer-led
 
-"Cool. So here's what we'd do. The free internal tool build is exactly that —
-we build you a custom tool that attacks [their constraint] specifically. Fully
-done-for-you, 14 days, fully yours at the end with documentation."
+"Cool. So here's what we'd do. We build a custom growth system specifically
+aimed at [their constraint]. Fully done-for-you, you keep all the assets and
+SOPs at the end."
 
 Then drop **2–3 concrete examples that map to what they just said.** Library:
 
-### If their constraint is sales / booked calls
-"For one agency we built a setter dashboard that tracked every lead source,
-show rate, and close rate by setter — they spotted that one of their setters
-had a 12% show rate dragging the whole calendar down, fixed it, and added 8
-calls a week."
+### If their constraint is paid ads / customer acquisition
+"For BrightLeaf — same vertical as you — we took them from $80k/mo in paid
+spend to $250k/mo over four months while improving ROAS from 1.8 to 2.6.
+The unlock was a creative-testing system; their internal team was shipping
+six ads a month, we got them to 40."
 
-### If their constraint is service delivery / churn
-"For The CMM, we built a client health dashboard pulling Meta + GHL data into
-one view with auto health scores. Their CSMs went from reactive to proactive —
-churn dropped from 33% to under 10%."
+### If their constraint is retention / LTV
+"For Northwind Co — DTC home goods — we rebuilt their post-purchase flow and
+their LTV in the 90-day window jumped 38%. Their team kept everything; we
+just gave them the playbook and the implementation."
 
-### If their constraint is team capacity
-"For Rebel Media, we built an internal ops tool that cut their CSM admin time
-by about 70%, which let them 4x the clients each CSM could handle without
-dropping quality."
+### If their constraint is team capacity / ops
+"For TidalCommerce, their CSMs were burning out at 12 accounts each. We
+restructured their delivery workflow so one CSM could handle 35 without
+quality drop. Same outcome, less headcount required."
 
-### If their constraint is reporting / visibility
-"We built one founder a daily 'Presidential Brief' — pulls data from their
-CRM, project tool, and Slack into a one-page summary every morning. He stopped
-having to chase his team for updates."
+### If their constraint is data / visibility
+"We built one founder a daily one-page brief — pulls data from their CRM,
+ad accounts, and Shopify into a single morning email. He stopped chasing his
+team for status updates and his exec time went up 3 hours a week."
 
-Then say: "Now — I don't know yet exactly what we'd build for you. That's
-literally what the second call is for. We dig into your specific workflow,
-find the highest-leverage thing, and scope it. But that's the shape of what
-these tools look like."
+Then: "I don't know yet exactly what we'd do for you. That's what the second
+call is for. But that's the shape of the work."
 
 ---
 
 ## Demo
 
-"I'll show you a real example of what this actually looks like in action."
+"Want me to show you what one of these systems actually looks like?"
 
-→ Run the **Churnbuster** demo screen-share.
+→ Run the demo screen-share.
 
 ---
 
@@ -148,66 +141,63 @@ these tools look like."
 
 "I want to be straight with you about how this works.
 
-We build the tool free because it's how we get agencies to trust us. Most of
-the agencies we build for end up working with us on bigger projects after —
-paid stuff like full retention systems, custom portals, that kind of thing.
-
-Some don't, and that's fine. Either way the tool is yours, fully documented,
-no obligation."
+We only take on clients we think we can hit a clear outcome with. If after
+the next call we don't think we can, we'll tell you — we don't waste people's
+time. The way I'd think about us is: we're betting on the outcome, not just
+billing for hours."
 
 ---
 
 ## Check-in before close
 
-- "Do you have any questions for me?"
-- "So far, are we on the same page on how this can help your constraint?"
+- "Any questions on what I've shown you?"
+- "Do you feel like this would actually address your constraint?"
 
 ---
 
 ## The Close — book the next call
 
-Stop being passive here. Do not let them say "we'll get back to you."
+Don't let them say "we'll get back to you."
 
-"So here's what I'd suggest. Let's book a 20-minute scoping call — Thursday or
-Friday this week ideally. On that call we figure out exactly what to build.
-What works better — Thursday or Friday?"
+"Here's what I'd suggest. Let's book a 30-minute scoping call this week.
+On that call we figure out exactly what we'd build for you. What works
+better — Thursday or Friday?"
 
 ### If they hesitate
-"What's holding you back from booking it now? Genuinely curious — if there's
-something I haven't addressed I'd rather know."
+"What's holding you back from booking it? Genuinely curious — if there's
+something I haven't addressed, I'd rather know now."
 
-### If they push to "let us think about it"
-"Totally fair. Here's the thing though — we only run this offer for a limited
-number of agencies at a time because we're actually building the tool for
-free. If you want to think about it, no problem, but I'd rather book a
-tentative slot now and you cancel if you decide it's not for you, than leave
-it open and have the slot fill up. Cool with that?"
+### If they push for "let me think about it"
+"Totally fair. Here's the thing though — we only take on a few new clients
+each month, and we book the scoping calls first-come. If you want time to
+think, no problem, but I'd rather hold a tentative slot now and you cancel
+if you decide it's not for you, than leave it open and lose the week."
 
 ---
 
 ## What the coach should watch for
 
-**Constraint signals to flag** (prospect language that reveals what's slowing them down):
-- "churn", "retention", "clients leaving" → service delivery / churn → CMM example
-- "show rate", "setters", "booked calls", "calendar" → sales → setter dashboard example
-- "burnt out", "can't take on more", "team maxed", "bandwidth" → team capacity → Rebel Media example
-- "no visibility", "chasing updates", "don't know what's going on" → reporting → Presidential Brief example
-- "tried [X]", "didn't work", "fell off" → root-cause prompt, "why didn't it stick?"
+**Constraint keywords to flag** (map prospect language → which case study to drop):
+- "ROAS", "spend", "creative", "acquisition", "CAC" → paid ads → BrightLeaf example
+- "churn", "retention", "LTV", "repeat purchase" → retention → Northwind example
+- "burnt out", "can't scale", "team maxed", "bandwidth" → capacity → TidalCommerce example
+- "no visibility", "chasing updates", "don't know what's going on" → data → daily brief example
+- "tried [X]", "didn't work", "fell off" → ask "why didn't it stick?"
 
 **Sequence gates the coach should enforce:**
-1. Don't let me pitch before I've asked the **constraint question** (Q4).
-2. Don't let me pitch before I've **played the constraint back** and got explicit "yes".
-3. Don't let me skip the **honest frame** before closing.
-4. Don't let me close without a **specific day** (Thursday or Friday).
+1. Don't pitch before the **constraint question** (Q4) has been asked.
+2. Don't pitch before the **bridge** has landed an explicit "yes".
+3. Don't skip the **honest frame** before closing.
+4. Don't close without a **specific day** (Thursday or Friday).
 
 **Buying signals to surface immediately:**
 - "What does the next call look like?"
-- "What do you need from us?"
+- "What would you need from us?"
 - Asks about timeline / kickoff
 - Asks who builds it / who they'd be working with
 - Goes quiet, then "okay so what would this look like…"
 
-**Common stalls and the line to use:**
-- "Let me think about it" → use the limited-slots line (see Close above).
-- "Need to talk to my partner" → "totally — let's book the tentative slot now, you can bring them on that call."
-- "How much does the paid stuff cost?" → "we'll get to that on the second call — first let's lock down whether the free tool would actually move the needle for you."
+**Common stalls and the response to use:**
+- "Let me think about it" → limited-slots line (see Close above).
+- "Need to talk to my partner" → "Totally — let's book the tentative slot now, bring them on that call."
+- "How much does this cost?" → "We'll get into that on the next call once we've scoped what makes sense."
