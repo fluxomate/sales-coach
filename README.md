@@ -4,6 +4,11 @@ A local real-time sales-call coach. Listens to both sides of your live calls (mi
 
 Windows only for now.
 
+## 📺 Setup guide / live build
+
+Watch how this was built end-to-end (with full setup walkthrough):
+**[youtu.be/zQcTRZ9jnfw](https://www.youtube.com/watch?v=zQcTRZ9jnfw)**
+
 ## Setup
 
 1. `npm install`
